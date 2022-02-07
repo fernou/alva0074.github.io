@@ -1,10 +1,6 @@
-## Developer Portfolio Landing Page Template
-
 ### Introduction
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
-
-<img src="images/demo.gif?raw=true"/>
+Hello, My name is Ferando, thank you for taking the time to view my Github Page. As you navigate through my page, you will oberve that my background in GIS is quite extensive. I have over 10 years of expereince with positions with United States Army, San Bernardino County, and The City of Palm Springs
 
 ### Installation
 
